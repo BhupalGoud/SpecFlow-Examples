@@ -16,7 +16,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.0.0-preview7.19362.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0-preview7.19362.4" />
     <PackageReference Include="Selenium.Support" Version="3.0.0" />
-    <PackageReference Include="Selenium.WebDriver" Version="3.0.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.14.1" />
     <PackageReference Include="SpecFlow" Version="3.1.21-beta" />
     <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.1.21-beta" />
     <PackageReference Include="SpecFlow.xUnit" Version="3.1.21-beta" />
